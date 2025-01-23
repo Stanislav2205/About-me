@@ -4,4 +4,4 @@
 
 Я учусь в Нетологии
 
-![Foto](C:\Users\usmaevst\Nextcloud\Desktop\about me\фото Усмаев.jpg)
+![Фото ](images/фото%20Усмаев.jpg)
